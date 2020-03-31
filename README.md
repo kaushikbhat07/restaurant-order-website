@@ -5,7 +5,6 @@
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteCond %{REQUEST_FILENAME}\.php -f
 	RewriteRule ^(.*)$ $1.php [NC,L]
-	# PHP error handling for development servers
 	php_flag display_startup_errors off
 	php_flag display_errors off
 	php_flag html_errors off
