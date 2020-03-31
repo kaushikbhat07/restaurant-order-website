@@ -24,4 +24,4 @@ To be able to send emails on a local environment, update the user and pass param
 	swadeshrest@gmail.com
 	pass: 123456
 
-3. Project link:	https://kproj.me/swadesh
+3. 	Project link:	https://kproj.me/swadesh
