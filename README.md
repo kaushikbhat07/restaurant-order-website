@@ -1,7 +1,6 @@
 1.	Do NOT delete the .htaccess file.
 2.	If .htaccess file isn't found, create a .htaccess file with the following contents: 
 
-<!-- 
 	RewriteEngine on 
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteCond %{REQUEST_FILENAME}\.php -f
@@ -16,7 +15,6 @@
 	php_value docref_root 0
 	php_value docref_ext 0
 	php_value error_reporting -1
- -->
 
 3.	Test Payment Gateway details:
 	Card:
