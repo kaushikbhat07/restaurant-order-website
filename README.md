@@ -1,7 +1,7 @@
 To run on a local environment:
 ----------------------------------------------------------------------
 1.	Import the .sql file found in the directory Database File/.
-Change the database name and password in the config files found in includes/, admin/includes/, staff/includes.
+Change the database name and password in the config.ini files found in includes/, admin/includes/, staff/includes.
 
 2.	The project uses PHPMailer(https://github.com/PHPMailer/PHPMailer) to send emails. 
 To be able to send emails on a local environment, update the user and pass parameters in config.ini files found in includes/, admin/includes/, staff/includes with your GMAIL ID and password.
