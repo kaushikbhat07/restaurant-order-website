@@ -1,7 +1,11 @@
+To run on a local environment:
+----------------------------------------------------------------------
+Import the .sql file found in the directory Database File/.
+Change the database name and password in the config files found in includes/, admin/includes/, staff/includes.
+
 The project uses PHPMailer(https://github.com/PHPMailer/PHPMailer) to send emails. 
 To be able to send emails on a local environment, update the user and pass parameters in config.ini files found in includes/, admin/includes/, staff/includes with your GMAIL ID and password.
-
-
+----------------------------------------------------------------------
 1.	Test Payment Gateway details:
 	Card:
 		Card Number:	Any Visa or Master Card (Ex: 4111-1111-1111-1111)
