@@ -1,0 +1,87 @@
+#header {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+#portfolio .container {
+    padding-top: 69px;
+}
+
+#portfolio .portfolio-item .portfolio-info {
+    text-align: left;
+}
+
+#portfolio .portfolio-item .portfolio-info p {
+    color: #333;
+}
+
+.row-nowrap {
+    flex-wrap: nowrap;
+}
+
+.add-to-cart {
+    text-align: right;
+}
+
+.card-title
+
+/*replaced bs*/
+    {
+    font-size: 1rem !important;
+    font-weight: 500;
+}
+
+.card-text {
+    font-size: 0.9rem !important;
+    /*replaced bs*/
+}
+
+.add-to-cart {
+    text-align: center;
+    padding-top: 26px;
+}
+
+@media only screen and (max-width: 1199px) {
+    #portfolio .portfolio-item {
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    #portfolio .portfolio-item {
+        height: 430px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #portfolio .portfolio-item {
+        height: 560px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    #portfolio .portfolio-item {
+        height: 560px;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    #portfolio .portfolio-item {
+        height: 530px;
+    }
+}
+
+@media only screen and (max-width: 482px) {
+    #portfolio .portfolio-item {
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #portfolio .portfolio-item {
+        height: 430px;
+    }
+}
+
+.item-name {
+    color: #666;
+}

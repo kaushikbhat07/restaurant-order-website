@@ -1,0 +1,91 @@
+.input-textarea {
+    height: 112px;
+    align-items: center;
+}
+
+.wrap-input100 {
+    border-radius: 5px;
+}
+
+.focus-input100 {
+    border-radius: 5px;
+}
+
+.menu-categories {
+    border-bottom: 2px solid black;
+}
+
+.menu-categories:hover {
+    border-bottom: 2px solid #18d26e;
+    transition: 0s;
+}
+
+#intro .btn-get-started {
+    padding: 16px 32px;
+}
+
+.bg-bread {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -10px -10px;
+}
+
+.bg-chicken {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -62px -10px;
+}
+
+.bg-chips {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -10px -62px;
+}
+
+.bg-egg {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -62px -62px;
+}
+
+.bg-fish {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -114px -10px;
+}
+
+.bg-ice {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -114px -62px;
+}
+
+.bg-juice {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -10px -114px;
+}
+
+.bg-noodles {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -62px -114px;
+}
+
+.bg-soup {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -114px -114px;
+}
+
+.bg-veg {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -166px -10px;
+}
+
+.bg-addtocart {
+    width: 32px;
+    height: 32px;
+    background: url('img/icons/css_sprites.png') -166px -62px;
+}

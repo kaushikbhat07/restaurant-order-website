@@ -1,0 +1,178 @@
+body {
+    color: #676a77 !important;
+}
+
+.btn-icon-split {
+    border-radius: 0.25rem !important;
+}
+
+.form-add .form-input-info {
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: inherit;
+}
+
+.form-add .card-title {
+    margin-bottom: 2.5rem;
+}
+
+.delete-btn {
+    background-color: #e74a3b !important;
+    border-color: #e74a3b !important;
+    box-shadow: 0 0.40rem 1.2rem #e74a3b !important;
+}
+
+.delete-btn-circle {
+    background-color: #e74a3b !important;
+    border-color: #e74a3b !important;
+    box-shadow: 0 0.2rem 0.7rem #e74a3b !important;
+}
+
+.warning-btn-circle {
+    background-color: #f0ad02 !important;
+    border-color: #f0ad02 !important;
+    box-shadow: 0 0.2rem 0.7rem #f0ad02 !important;
+}
+
+.success-btn-circle {
+    background-color: #04bf7c !important;
+    border-color: #04bf7c !important;
+    box-shadow: 0 0.2rem 0.7rem #04bf7c !important;
+}
+
+.success-btn {
+    background-color: #1cc88a !important;
+    border-color: #1cc88a !important;
+    box-shadow: 0 0.40rem 1.2rem #1cc88a !important;
+}
+
+.blue-btn {
+    background-color: #3f6ad8;
+    border-color: #3f6ad8;
+    box-shadow: 0 0.50rem 1.50rem 0 #3f6ad8 !important;
+}
+
+.gray-btn {
+    background-color: #858796;
+    border-color: #858796;
+    box-shadow: 0 0.50rem 1.50rem 0 #858796 !important;
+
+}
+
+.form-add .modify-btn {
+    float: right;
+}
+
+.main-card .form-add {
+    padding: 3.25rem;
+}
+
+.form-row {
+    margin-left: 0;
+}
+
+.form-add .insert-content {
+    padding-bottom: 25px;
+}
+
+.form-add .card-title-cat-modify {
+    margin-bottom: 0;
+}
+
+#wrapper #content-wrapper {
+    background-color: #f1f4f6;
+}
+
+.primary-shadow {
+    box-shadow: 0 .15rem 1rem 0 #3f6ad8 !important;
+}
+
+/*   .green-shadow
+{
+    box-shadow: 0 .15rem 1rem 0 #3ac47d !important;
+}*/
+.danger-shadow {
+    box-shadow: 0 .15rem 1rem 0 #d92550 !important;
+}
+
+.card-shadow-primary .card-title {
+    font-weight: bold;
+    /*text-transform: uppercase;*/
+}
+
+.card-shadow-primary .success-btn {
+    float: right;
+}
+
+.cat-mod .alert {
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+}
+
+.del-btn {
+    padding-top: 30px !important;
+}
+
+.img-modify {
+    padding-left: 5px;
+}
+
+.item-added-image {
+    max-height: 400px;
+    float: right;
+}
+
+.btn-padding {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.border-top-primary {
+    border-top: .25rem solid #4e73df !important;
+}
+
+.border-table-top {
+    margin-bottom: 35px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.border-table-bottom {
+    margin-top: 35px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+td a,
+td a:hover {
+    color: inherit;
+}
+
+.table-image {
+    max-height: 48px;
+}
+
+.fade
+
+/*modal*/
+    {
+    transition: unset;
+}
+
+.text-center-force {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.current-image-modify {
+    height: 100px;
+}
+
+.table td {
+    vertical-align: middle;
+}

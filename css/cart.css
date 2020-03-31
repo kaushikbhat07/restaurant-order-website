@@ -1,0 +1,95 @@
+#header {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+#about .container {
+    padding-top: 69px;
+}
+
+.form-row
+
+/*spaces between email and passowrd in login modal*/
+    {
+    margin-top: 20px !important;
+}
+
+@media only screen and (min-width: 768px) {
+
+    .table td.cart-data-no-padding,
+    .table th.cart-data-no-padding {
+        padding: 0;
+    }
+}
+
+#vertical-line {
+    color: #000;
+}
+
+.rounded-pill,
+.form-control {
+    border-radius: 3px !important;
+}
+
+.accordion .card .card-header {
+    margin-bottom: 0;
+}
+
+.card,
+.card-header
+
+/*replaced bootstrap*/
+    {
+    border: 0 !important;
+}
+
+@media only screen and (max-width: 768px)
+
+/* to remove space between image and item name */
+    {
+    .ml-3 {
+        margin-left: 0 !important;
+    }
+}
+
+.cart-subheading {
+    text-align: center;
+}
+
+.f-column {
+    width: 50% !important;
+}
+
+.s-column {
+    width: 35% !important;
+}
+
+.t-column {
+    width: 20% !important;
+}
+
+@media only screen and (max-width: 768px)
+
+/* to remove left & right padding */
+    {
+
+    .p-5,
+    .p-4 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+
+.shadow-button {
+    box-shadow: 0 .1rem 0.7rem rgb(52, 58, 64) !important;
+}
+
+.cart-item {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.item-cart-link {
+    color: inherit;
+}

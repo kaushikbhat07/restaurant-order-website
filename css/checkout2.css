@@ -1,0 +1,43 @@
+#header {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+#about .container
+
+/*distance from top*/
+    {
+    padding-top: 69px;
+}
+
+.text-note
+
+/*zip code notice*/
+    {
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+}
+
+.custom-control-label
+
+/*to remove green colored text*/
+    {
+    color: #666666 !important;
+}
+
+h4,
+h6 {
+    color: #464545 !important;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+.shadow-button {
+    box-shadow: 0 .1rem 0.7rem rgb(52, 58, 64) !important;
+}
+
+.item-cart-link {
+    color: inherit;
+}

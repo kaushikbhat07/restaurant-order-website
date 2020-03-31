@@ -1,0 +1,180 @@
+#header {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+#portfolio .container {
+    padding-top: 75px;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.list-group-item-cus {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.list-group-item-cus:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+@media only screen and (max-width: 768px) {
+    .categories-left {
+        display: none;
+    }
+}
+
+.sub-heading {
+    font-weight: 500;
+}
+
+.categories-next {
+    float: right;
+}
+
+.container-main {
+    max-width: 1225px;
+}
+
+#portfolio .portfolio-item .portfolio-info {
+    text-align: left;
+}
+
+#portfolio .portfolio-item .portfolio-info p {
+    color: #333;
+}
+
+#portfolio .portfolio-item figure {
+    height: inherit;
+}
+
+.btn-cart {
+    border-radius: 0.15rem !important;
+    min-width: 100%;
+    height: 58px;
+}
+
+.btn-add-cart,
+.btn-add-cart:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+.btn-goto-cart,
+.btn-goto-cart:hover {
+    background-color: #c80101;
+}
+
+.row-nowrap {
+    flex-wrap: nowrap;
+}
+
+.add-to-cart {
+    text-align: right;
+}
+
+.card-title
+
+/*replaced bs*/
+    {
+    font-size: 1rem !important;
+    font-weight: 500;
+}
+
+.card-text {
+    font-size: 0.9rem !important;
+    /*replaced bs*/
+}
+
+.add-to-cart {
+    text-align: center;
+    padding-top: 26px;
+}
+
+@media only screen and (max-width: 1199px) {
+    #portfolio .portfolio-item {
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    #portfolio .portfolio-item {
+        height: 430px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #portfolio .portfolio-item {
+        height: 560px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    #portfolio .portfolio-item {
+        height: 560px;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    #portfolio .portfolio-item {
+        height: 530px;
+    }
+}
+
+@media only screen and (max-width: 482px) {
+    #portfolio .portfolio-item {
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #portfolio .portfolio-item {
+        height: 430px;
+    }
+}
+
+.item-name {
+    color: #666;
+}
+
+.item-main {
+    padding-bottom: 15px;
+}
+
+#portfolio .categories-next a>i {
+    color: #000;
+    font-size: 19px;
+}
+
+#portfolio .categories-next a>i:hover {
+    color: #0056b3;
+}
+
+.cart-buttons {
+    padding-bottom: 20px;
+}
+
+.cart-item-icon,
+.cart-item-icon:hover {
+    font-size: 32px;
+    color: #000;
+}
+
+.cart-buttons .cart-icons {
+    text-align: center;
+}
+
+.cart-item-quantity {
+    font-size: 24px;
+}
+
+.item-cart-link {
+    color: inherit;
+}
