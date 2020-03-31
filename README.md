@@ -28,10 +28,6 @@
 		Password:	Paytm12345
 		OTP:	489871
 
-
-4.	Do not login into multiple accounts simultaneously on the same window. Create a new window (either 	incognito mode or a different browser).
-	(Example: Do not try to sign in to customer and admin accounts simultaneously in the same window. Singing in would work, but if the user tries to logout from any one account, it would result in the entire session getting turned off which would result in logging out from both accounts. )
-
 5.	Do not delete the "guest@swadesh.com" entry from the Dataset.
 
 6.	Admin Login:
