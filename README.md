@@ -45,5 +45,3 @@
 	Customer Login:
 	swadeshrest@gmail.com
 	pass: 123456
-
-Live website: https://kproj.me/swadesh/"# restaurant-order-website" 
