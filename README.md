@@ -30,4 +30,6 @@ Other credentials:
 	swadeshrest@gmail.com
 	pass: 123456
 
-3. 	Project link:	https://kproj.me/swadesh
+3. 	Customer:	https://kproj.me/swadesh
+	Admin:	https://kproj.me/swadesh/admin	
+	Staff:	https://kproj.me/swadesh/staff
