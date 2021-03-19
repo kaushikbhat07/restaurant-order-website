@@ -3,8 +3,10 @@ To run on a local environment:
 1.	Import the .sql file found in the directory Database File/.
 Change the database name and password in the config.ini files found in includes/, admin/includes/, staff/includes.
 
-2.	The project uses PHPMailer(https://github.com/PHPMailer/PHPMailer) to send emails. 
+2.	The project uses [PHPMailer](https://github.com/PHPMailer/PHPMailer) to send emails. 
 To be able to send emails on a local environment, update the user and pass parameters in config.ini files found in includes/, admin/includes/, staff/includes with your GMAIL ID and password.
+
+3. [Turn on less secure apps on your gmail ID.](https://hotter.io/docs/email-accounts/secure-app-gmail/) This is required for the emails to be sent.
 ----------------------------------------------------------------------
 Other credentials:
 
@@ -30,6 +32,6 @@ Other credentials:
 	swadeshrest@gmail.com
 	pass: 123456
 
-3. 	Customer:	https://kproj.me/swadesh
-	Admin:	https://kproj.me/swadesh/admin	
-	Staff:	https://kproj.me/swadesh/staff
+3. 	Customer:	http://swadesh.epizy.com/swadesh/
+	Admin:	http://swadesh.epizy.com/swadesh/admin	
+	Staff:	http://swadesh.epizy.com/swadesh/staff
